@@ -76,3 +76,19 @@ elif dataset_choice == "Quotes Dataset":
 
     else:
         st.warning("⚠️ `all_quotes_data.csv` not found. Please run `scraper.py` first.")
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("### 👨‍💻 Developer & Author")
+st.sidebar.markdown("**Sunny Thakur**")
+st.sidebar.caption("Python & Machine Learning Developer")
+
+# Quick Action Links
+st.sidebar.markdown("""
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/sunnythakursunny650-cell)
+[![Repo](https://img.shields.io/badge/Source_Code-Repository-blue?style=flat&logo=github)](https://github.com/sunnythakursunny650-cell/web-scraping-automation-toolkit)
+[![Contact](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sunnythakursunny650@gmail.com)
+""")
+
+# Tech Stack Footnote
+st.sidebar.markdown("---")
+st.sidebar.markdown("**Tech Stack:** `Python` • `Playwright` • `BeautifulSoup4` • `Pandas` • `Streamlit`")
