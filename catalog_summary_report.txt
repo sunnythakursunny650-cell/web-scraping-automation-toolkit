@@ -1,0 +1,20 @@
+==================================================
+    SCRAPED DATA EXECUTIVE SUMMARY
+==================================================
+Total Products Processed : 60
+Average Book Price       : £35.00
+Price Range              : £12.84 - £57.31
+
+Rating Distribution:
+Rating
+5    14
+4    10
+3    13
+2     8
+1    15
+
+Top 3 Most Expensive Books:
+- Slow States of Collapse: Poems (£57.31) [Rating: 3/5]
+- Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 (£57.25) [Rating: 3/5]
+- The Past Never Ends (£56.5) [Rating: 4/5]
+==================================================
