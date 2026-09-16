@@ -34,3 +34,12 @@ An end-to-end Python repository demonstrating modular web scraping architectures
    ```bash
    git clone <YOUR-REPO-URL>
    cd web_scraping_project
+
+---
+
+## 👨‍💻 Author
+
+**Sunny Thakur**
+* **Live App:** [Streamlit Dashboard](https://web-scraping-automation-toolkit-cmcuo2c74tq9yjtbahq7cv.streamlit.app/)
+* **GitHub:** [@sunnythakursunny650-cell](https://github.com/sunnythakursunny650-cell)
+* **Email:** [sunnythakursunny650@gmail.com](mailto:sunnythakursunny650@gmail.com)
